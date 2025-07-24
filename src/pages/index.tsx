@@ -6,7 +6,7 @@ import heroImage from "../../public/assets/hero.png"
 export default function Home() {
   return (
     <div className={styles.container}>
-      < Head > Task App</Head >
+      < Head ><title>Tarefas</title></Head >
       <main className={styles.main}>
         <div className={styles.logoContent}>
           <Image
